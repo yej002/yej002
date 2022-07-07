@@ -6,9 +6,10 @@
 - 🌱 I’m currently learning ...
 - 👨‍💻 All of my projects are avaliable at [https://github.com/yej002](https://github.com/yej002)
 - 📫 How to reach me [https://www.linkedin.com/in/jing-ye-002/](https://www.linkedin.com/in/jing-ye-002/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yej002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yej002)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yej002&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yej002)](https://git.io/streak-stats)
 
