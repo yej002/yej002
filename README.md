@@ -1,6 +1,7 @@
 ## Hi 👋, I am Jing Ye
 ### A passionate CS student from China
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=35&color=9919FF&background=F9D3FF85&vCenter=true&lines=Welcome+to+my+GitHub+Portfolio;++%E2%99%AA(%EF%BD%A5%CF%89%EF%BD%A5)%EF%BE%89+Thank+you)](https://git.io/typing-svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yej002)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yej002/yej002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
