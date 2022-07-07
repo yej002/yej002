@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=35&color=FFFFFE&background=9181FFB3&lines=Welcome+to+my+GitHub+Portfolio++%E2%99%AA(%EF%BD%A5%CF%89%EF%BD%A5)%EF%BE%89;Thank+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=35&color=FFD8FE&background=000000&lines=Welcome+to+my+GitHub+Portfolio;++%E2%99%AA(%EF%BD%A5%CF%89%EF%BD%A5)%EF%BE%89+Thank+you)](https://git.io/typing-svg)
 <!--
 **yej002/yej002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
