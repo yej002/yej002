@@ -1,6 +1,6 @@
 ## Hi 👋, I am Jing Ye
 ### A passionate CS student from China
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=35&color=FF5551&background=D3FFE6AC&lines=Welcome+to+my+GitHub+Portfolio;++%E2%99%AA(%EF%BD%A5%CF%89%EF%BD%A5)%EF%BE%89+Thank+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Brush+Script+MT&size=35&color=9919FF&background=F9D3FF85&vCenter=true&lines=Welcome+to+my+GitHub+Portfolio;++%E2%99%AA(%EF%BD%A5%CF%89%EF%BD%A5)%EF%BE%89+Thank+you)](https://git.io/typing-svg)
 <!--
 **yej002/yej002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=yej002)](https://github.com/ryo-ma/github-profile-trophy)
+![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=yej002&show_icons=true&hide_border=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yej002)](https://git.io/streak-stats)
