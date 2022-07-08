@@ -6,17 +6,20 @@
 - 🌱 I’m currently learning node.js
 - 👨‍💻 All of my projects are avaliable at [https://github.com/yej002](https://github.com/yej002)
 - 📫 How to reach me [https://www.linkedin.com/in/jing-ye-002/](https://www.linkedin.com/in/jing-ye-002/)
-## Languages and Tools:
-<img align="left" alt="Java" width="40px" src="https://user-images.githubusercontent.com/49883143/177709441-cf6e828a-88de-4904-a00f-bc53c7151bdc.png"/>
-<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/49883143/177709559-3b1bcaf0-39bc-402a-a18c-27e2fd54eee6.png"/>
-<img align="left" alt="JavaScript" width="40px" src="https://user-images.githubusercontent.com/49883143/177709715-130e56f9-1989-4512-a2f9-bad544a39c18.png"/>
-<img align="left" alt="HTML5" width="40px" src="https://user-images.githubusercontent.com/49883143/177709724-e2be6071-9ae5-4aa1-95d3-49b20aac6ff9.png"/>
-<img align="left" alt="CSS3" width="40px" src="https://user-images.githubusercontent.com/49883143/177709732-2dad5b96-512a-4257-8989-b7b26bf4e458.png"/>
-<img align="left" alt="NodeJS" width="40px" src="https://user-images.githubusercontent.com/49883143/177709958-8de186af-2d60-4441-a26e-7114a03ae08c.png"/>
-<img align="left" alt="React" width="40px" src="https://user-images.githubusercontent.com/49883143/177710303-22caffd9-4a94-45c8-b121-7ad115b0dd4b.png"/>
-<img align="left" alt="MongoDB" width="50px" src="https://user-images.githubusercontent.com/49883143/177710312-930b706d-6949-435e-837a-8570c7fabfeb.png"/>
-<img align="left" alt="PostgreSQL" width="40px" src="https://user-images.githubusercontent.com/49883143/177710284-ba11f663-e173-4d3d-94a4-f599671e2f04.png"/>
-<img align="left" alt="Docker" width="40px" src="https://user-images.githubusercontent.com/49883143/177710272-ec7bd701-ff5f-4340-baab-6d9a13af05d9.png"/>  
+## ⚡Languages and Tools:
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <br />
 <br />
