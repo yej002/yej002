@@ -31,3 +31,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yej002&theme=dracula)](https://git.io/streak-stats)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yej002)
