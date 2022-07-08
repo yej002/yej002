@@ -22,7 +22,7 @@ Front-end:
 Framworks:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![Spring](https://img.shields.io/badge/-Spring-014F0D?style=plastic&logo=Spring)
-![React](https://img.shields.io/badge/-React-171F8F?style=plastic&logo=react)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-171F8F?style=plastic&logo=Express)
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B3A79?style=plastic&logo=postgresql)
