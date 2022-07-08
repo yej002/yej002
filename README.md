@@ -7,28 +7,37 @@
 - 👨‍💻 All of my projects are avaliable at [https://github.com/yej002](https://github.com/yej002)
 - 📫 How to reach me [https://www.linkedin.com/in/jing-ye-002/](https://www.linkedin.com/in/jing-ye-002/)
 ## ⚡Languages and Tools:
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+Back-end:
+![Java](https://img.shields.io/badge/-Java-FC5101?style=plastic&logo=Java)
+![Python](https://img.shields.io/badge/-Python-13306F?style=plastic&logo=Python)
+![C](https://img.shields.io/badge/-C-155AB8?style=plastic&logo=C)
+
+Front-end:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-FC4901?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-003EE1?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-430E7B?style=plastic&logo=bootstrap)
+
+Framworks:
+![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+![Spring](https://img.shields.io/badge/-Spring-1A8019?style=plastic&logo=Spring)
+![React](https://img.shields.io/badge/-React-171F8F?style=plastic&logo=react)
+
+Database:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00098E?style=plastic&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-043316?style=plastic&logo=mongodb)
+
+Tools:
+![Nodejs](https://img.shields.io/badge/-Nodejs-084D07?style=plastic&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-071E5B?style=plastic&logo=docker)
+![Git](https://img.shields.io/badge/-Git-181717?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+
 
 <br />
-<br />
-<br />
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yej002&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yej002&theme=dracula)](https://git.io/streak-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yej002)
