@@ -16,16 +16,16 @@ Back-end:
 Front-end:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-FC4901?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-003EE1?style=plastic&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-430E7B?style=plastic&logo=bootstrap)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=plastic&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-581845?style=plastic&logo=bootstrap)
 
 Framworks:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-![Spring](https://img.shields.io/badge/-Spring-1A8019?style=plastic&logo=Spring)
+![Spring](https://img.shields.io/badge/-Spring-014F0D?style=plastic&logo=Spring)
 ![React](https://img.shields.io/badge/-React-171F8F?style=plastic&logo=react)
 
 Database:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00098E?style=plastic&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B3A79?style=plastic&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-043316?style=plastic&logo=mongodb)
 
 Tools:
