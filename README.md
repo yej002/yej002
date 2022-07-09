@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning node.js
 - 👨‍💻 All of my projects are avaliable at [https://github.com/yej002](https://github.com/yej002)
 - 📫 How to reach me [https://www.linkedin.com/in/jing-ye-002/](https://www.linkedin.com/in/jing-ye-002/)
-## ⚡My teck stack:
+## ⚡My Teck Stack:
 
 Back-end:
 ![Java](https://img.shields.io/badge/-Java-FC5101?style=plastic&logo=Java)
