@@ -20,16 +20,18 @@ Front-end:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-581845?style=plastic&logo=bootstrap)
 
 Framworks:
+![Nodejs](https://img.shields.io/badge/-Nodejs-084D07?style=plastic&logo=Node.js)
+![Express](https://img.shields.io/badge/-ExpressJS-171F8F?style=plastic&logo=Express)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
 ![Spring](https://img.shields.io/badge/-Spring-014F0D?style=plastic&logo=Spring)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-171F8F?style=plastic&logo=Express)
+
 
 Database:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2B3A79?style=plastic&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-043316?style=plastic&logo=mongodb)
 
 Tools:
-![Nodejs](https://img.shields.io/badge/-Nodejs-084D07?style=plastic&logo=Node.js)
+![Npm](https://img.shields.io/badge/-npm-7B241C?style=plastic&logo=npm)
 ![Docker](https://img.shields.io/badge/-Docker-071E5B?style=plastic&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
