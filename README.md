@@ -27,6 +27,7 @@ Framworks:
 
 
 Database:
+![MySQL](https://img.shields.io/badge/-MySQL-13306F?style=plastic&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-13306F?style=plastic&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-014F0D?style=plastic&logo=mongodb)
 
