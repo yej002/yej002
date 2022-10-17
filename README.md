@@ -35,6 +35,8 @@ Tools:
 ![Docker](https://img.shields.io/badge/-Docker-21618C?style=plastic&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-181717?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitHub](https://img.shields.io/badge/-AndroidStudio-13306F?style=plastic&logo=AndroidStudio)
+
 
 
 <br />
