@@ -1,8 +1,8 @@
 # Hi 👋, I am Jing Ye.
 ### A passionate CS student from China.
 
-- 🔭 I’m currently working on a full stack web project.
-- 🌱 I’m currently learning NodeJS and MongoDB, and I enjoy learning them very much.
+- 🔭 I’m currently working on a MERN(MongoDB, Express, React, Node) full stack web project.
+- 🌱 I’m currently learning Node.js and MongoDB, and I enjoy learning them very much.
 - 👨‍💻 All of my projects are avaliable at [https://github.com/yej002](https://github.com/yej002)
 - 📫 How to reach me [https://www.linkedin.com/in/jing-ye-002/](https://www.linkedin.com/in/jing-ye-002/)
 ## ⚡My Tech Stack:
