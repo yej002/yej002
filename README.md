@@ -27,9 +27,9 @@ Framworks:
 ![Springboot](https://img.shields.io/badge/-Springboot-014F0D?style=plastic&logo=Springboot)
 
 
-Database:
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-FFA500?style=plastic&logo=dynamodb)
-![S3](https://img.shields.io/badge/-S3-FF0000?style=plastic&logo=s3)
+Database/Storage:
+![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-FFA500?style=plastic&logo=dynamodb)
+![AWS S3](https://img.shields.io/badge/-S3-FF0000?style=plastic&logo=s3)
 ![MySQL](https://img.shields.io/badge/-MySQL-13306F?style=plastic&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-13306F?style=plastic&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-014F0D?style=plastic&logo=mongodb)
